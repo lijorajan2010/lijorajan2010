@@ -56,7 +56,7 @@
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=zainulislam95">
+    <img src="https://komarev.com/ghpvc/?username=lijorajan2010">
 </a>
 <a href="https://github.com/lijorajan2010?tab=followers"><img src="https://img.shields.io/github/followers/lijorajan2010?label=Followers&style=social" alt="GitHub Badge"></a>
 
