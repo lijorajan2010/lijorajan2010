@@ -3,7 +3,7 @@
 
 ### Hi there 👋, I'm Lijo Rajan
 
-#### I'm a motivated programmer with experience in dot net who likes to design both legacy and modern type application.
+#### I'm a motivated programmer with focus on C#, .NET, Angular and Cloud technologies who likes to design both legacy and modern type application.
 
 <img align="right" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif" >
 
