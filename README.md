@@ -54,9 +54,9 @@
   <br/>  
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-## ❤ Views and Followers
+## ❤ Views 
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=lijorajan2010">
 </a>
-<a href="https://github.com/lijorajan2010?tab=followers"><img src="https://img.shields.io/github/followers/lijorajan2010?label=Followers&style=social" alt="GitHub Badge"></a>
+
 
