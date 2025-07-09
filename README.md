@@ -3,13 +3,11 @@
 
 ### Hi there 👋, I'm Lijo Rajan
 
-#### I'm a motivated programmer with focus on C#, .NET, Angular and Cloud technologies who likes to design both legacy and modern type application.
+#### I'm a motivated programmer with focus on C#, .NET, and Cloud technologies who likes to design both legacy and modern type application.
 
 <img align="right" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif" >
 
-- 🔭 I’m currently working on  [.Net Core 6](https://learn.microsoft.com/en-us/aspnet/core/introduction-to-aspnet-core?view=aspnetcore-6.0)
-- 🌱 I’m currently learning [Blazor](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor)
-- 👯 I’m looking to collaborate on <b>OpenSource Projects</b>
+- 🔭 I’m currently working on  [.Net Core]
 - 📫 How to reach me on [LinkedIn](https://www.linkedin.com/in/lijorajan/)
 
 
