@@ -46,12 +46,6 @@
     </a>
 </p>
 
-## 📊 My Github Stats
-  <br/>
-    <a href="https://github.com/lijorajan2010/github-readme-stats"><img alt="Lijo's Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lijorajan2010&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a><a href="https://github.com/lijorajan2010/github-readme-stats"><img alt="Lijo's Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lijorajan2010&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>  
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
 ## ❤ Views 
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=lijorajan2010">
